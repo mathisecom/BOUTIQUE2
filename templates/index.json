@@ -13,6 +13,8 @@
       "type": "herobanner",
       "name": "Bannière personnalisée",
       "settings": {
+        "image_desktop": "shopify://shop_images/hero_banner_d.webp",
+        "image_mobile": "shopify://shop_images/hero_banner_m_2.webp",
         "image_alt": "Bannière produit",
         "desktop_image_position": "center center",
         "mobile_image_position": "center center",
@@ -50,7 +52,7 @@
         "rating_color": "#ffffff",
         "stars_color": "#ffd400",
         "overlay_color": "#000000",
-        "overlay_opacity": 15,
+        "overlay_opacity": 35,
         "button_background": "#ffffff",
         "button_text_color": "#333333",
         "button_text_size": 14,
