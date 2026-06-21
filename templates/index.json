@@ -46,7 +46,7 @@
         "rating_size_desktop": 14,
         "rating_size_mobile": 13,
         "title_weight": "800",
-        "text_weight": "700",
+        "text_weight": "400",
         "background_color": "#e8ded7",
         "text_color": "#ffffff",
         "rating_color": "#ffffff",
