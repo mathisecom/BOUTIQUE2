@@ -194,6 +194,7 @@
         "item_JBFqcA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4_e3bfb5de-1b96-403f-b946-df846e083fe3.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -206,6 +207,7 @@
         "item_WkPfpA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/5_0ca04e6b-7cfb-429c-8008-e7311eac3a5b.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -218,6 +220,7 @@
         "item_CWMeBk": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4_e3bfb5de-1b96-403f-b946-df846e083fe3.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -240,7 +243,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Featured content",
+        "title": "S’adapte à Vous.",
         "content": "",
         "background": "",
         "background_gradient": "",
