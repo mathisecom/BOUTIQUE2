@@ -196,6 +196,22 @@
         "input_text_color": ""
       }
     },
+    "scrolling_text_Abg7d7": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "🌙 Essai de 30 nuits sans risque",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "multi_column_rABwjQ": {
       "type": "multi-column",
       "blocks": {
@@ -513,6 +529,7 @@
   "order": [
     "herobanner_3qbApp",
     "featured_product_kNHC4U",
+    "scrolling_text_Abg7d7",
     "multi_column_rABwjQ",
     "media_with_text_yDzwW9",
     "text_with_icons_Qr6hmQ",
