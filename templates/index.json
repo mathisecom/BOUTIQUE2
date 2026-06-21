@@ -77,7 +77,7 @@
         "title_BGNrdQ": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
         "liquid_UFHp6A": {
@@ -98,11 +98,18 @@
             "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_UpM4EP\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <div class=\"product-info__liquid\">\n  <style>\n    .custom-shipping-container {\n      display: flex;\n      padding: 6px 16px;\n      justify-content: space-between;\n      align-items: center;\n      align-self: stretch;\n      background-color: #f6f6f6;\n      border-radius: 20px;\n      gap: 10px;\n      width: 100%;\n    }\n\n    .custom-shipping-item {\n      display: flex;\n      align-items: center;\n      gap: 6px;\n      white-space: nowrap;\n    }\n\n    .text-block-shipping {\n      font-size: 12px;\n      color: #000;\n      line-height: 1.2;\n    }\n\n    .shipping-date {\n      font-weight: 700;\n    }\n\n    .free-shipping {\n      font-weight: 700;\n    }\n\n    .green-circle {\n      animation: fade 1s ease-in-out infinite;\n      flex-shrink: 0;\n    }\n\n    .custom-truck-icon {\n      width: 15px;\n      height: 15px;\n      flex-shrink: 0;\n    }\n\n    @keyframes fade {\n      0%, 100% { opacity: 1; }\n      50% { opacity: 0.5; }\n    }\n\n    @media screen and (max-width: 749px) {\n      .custom-shipping-container {\n        padding: 7px 12px;\n        gap: 8px;\n      }\n\n      .text-block-shipping {\n        font-size: 11px;\n      }\n\n      .custom-shipping-item {\n        gap: 5px;\n      }\n    }\n  </style>\n\n  <script>\n    document.addEventListener(\"DOMContentLoaded\", function() {\n      var daysAfterToday = 1; // Modifier ici : 1 = demain, 2 = après-demain, etc.\n      var today = new Date();\n      var shipDate = new Date(today);\n      shipDate.setDate(today.getDate() + daysAfterToday);\n\n      var options = {\n        weekday: 'short',\n        day: 'numeric',\n        month: 'long'\n      };\n\n      var formattedDate = shipDate.toLocaleDateString('fr-FR', options);\n\n      var shippingDateElement = document.getElementById('shipping-date');\n      if (shippingDateElement) {\n        shippingDateElement.textContent = formattedDate;\n      }\n    });\n  </script>\n\n  <div class=\"custom-shipping-container\">\n    <div class=\"custom-shipping-item\">\n      <svg class=\"green-circle\" width=\"12\" height=\"13\" viewBox=\"0 0 12 13\" fill=\"none\" aria-hidden=\"true\">\n        <circle cx=\"6\" cy=\"6.5\" r=\"6\" fill=\"#137333\"></circle>\n      </svg>\n\n      <div class=\"text-block-shipping\">\n        Expédié le <span id=\"shipping-date\" class=\"shipping-date\">lun. 22 juin</span>\n      </div>\n    </div>\n\n    <div class=\"custom-shipping-item\">\n      <svg class=\"custom-truck-icon\" viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\">\n        <path d=\"M3 7h11v10H3V7Z\" stroke=\"#000\" stroke-width=\"1.8\" stroke-linejoin=\"round\"></path>\n        <path d=\"M14 10h4l3 3v4h-7v-7Z\" stroke=\"#000\" stroke-width=\"1.8\" stroke-linejoin=\"round\"></path>\n        <circle cx=\"7\" cy=\"18\" r=\"2\" stroke=\"#000\" stroke-width=\"1.8\"></circle>\n        <circle cx=\"17\" cy=\"18\" r=\"2\" stroke=\"#000\" stroke-width=\"1.8\"></circle>\n      </svg>\n\n      <div class=\"text-block-shipping\">\n        <span class=\"free-shipping\">Livraison offerte</span> en France\n      </div>\n    </div>\n  </div>\n</div>\n            </div></div>"
           }
         },
+        "kaching_bundles_app_block_qBhVDt": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
+          }
+        },
         "buy_buttons_wH6tWp": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
@@ -162,6 +169,7 @@
         "liquid_UFHp6A",
         "liquid_twAPL6",
         "liquid_VhFpiH",
+        "kaching_bundles_app_block_qBhVDt",
         "buy_buttons_wH6tWp",
         "liquid_XJBFXM",
         "collapsible_text_tt37kt",
@@ -172,14 +180,14 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "",
+        "product": "coussin-ergonomique-cocoonia",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "contained",
         "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
@@ -267,7 +275,7 @@
             "content": "<p><strong>Cocoonia</strong> possède 2 hauteurs de contour différentes de chaque côté, pour s’adapter à votre position de sommeil. Sa forme papillon évite les engourdissements dans les bras et laisse de la place aux épaules.</p><p>Conçu pour offrir un soutien optimal de la tête et réduire les points de pression. Idéal pour dormir sur le dos, sur le côté ou sur le ventre.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#FAFBFC",
+            "background": "#fafbfc",
             "background_gradient": "",
             "text_color": "#062844",
             "text_gradient": "",
@@ -298,7 +306,7 @@
             "icon_width": 56,
             "icon_background_type": "circle",
             "icon_background": "",
-            "icon_color": "#FAFBFC",
+            "icon_color": "#fafbfc",
             "title": "Soulage le Cou et le Dos",
             "content": "<p>Aide le cou à retrouver sa courbure naturelle et favorise un meilleur alignement.</p>"
           }
@@ -312,7 +320,7 @@
             "icon_width": 56,
             "icon_background_type": "circle",
             "icon_background": "",
-            "icon_color": "#FAFBFC",
+            "icon_color": "#fafbfc",
             "title": "Des Nuits plus Paisibles",
             "content": "<p>Répartit la pression, détend les muscles et facilite l’endormissement.</p>"
           }
@@ -326,7 +334,7 @@
             "icon_width": 56,
             "icon_background_type": "circle",
             "icon_background": "",
-            "icon_color": "#FAFBFC",
+            "icon_color": "#fafbfc",
             "title": "Soulage les Épaules",
             "content": "<p>Épouse les épaules sur le côté pour un maintien confortable.</p>"
           }
@@ -429,7 +437,7 @@
             "content": "<p>Un oreiller mal adapté peut désaligner votre nuque et provoquer des tensions au réveil. L’oreiller <strong>Cocoonia</strong> aide à aligner naturellement la tête, le cou et la colonne pendant le sommeil.<br/><br/><strong>Moins de douleurs, meilleure posture, réveils plus légers.</strong></p>",
             "link_text": "",
             "link_url": "",
-            "background": "#FAFBFC",
+            "background": "#fafbfc",
             "background_gradient": "",
             "text_color": "#062844",
             "text_gradient": "",
