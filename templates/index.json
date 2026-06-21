@@ -366,9 +366,9 @@
           "settings": {
             "image": "shopify://shop_images/4_e3bfb5de-1b96-403f-b946-df846e083fe3.webp",
             "column_size": "3",
-            "title": "Dormeurs sur le Côté",
+            "title": "Maintient votre cou et épouse votre épaule naturellement.",
             "heading_tag": "h4",
-            "content": "<p>C’est la position adoptée par une grande partie des dormeurs. Grâce aux contours latéraux du <strong>Cocoonia</strong>, votre tête reste parfaitement alignée et vos bras trouvent enfin leur place sans créer de tension.</p><p><strong>Résultat</strong> : nuque soulagée, épaules détendues, sommeil profond garanti.</p>",
+            "content": "<p>Les deux caractéristiques qui éliminent les raideurs matinales, réunies dans un seul oreiller.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -379,9 +379,9 @@
           "settings": {
             "image": "shopify://shop_images/5_0ca04e6b-7cfb-429c-8008-e7311eac3a5b.webp",
             "column_size": "3",
-            "title": "Dormeurs sur le Ventre",
+            "title": "Mousse mémoire premium, nuit après nuit.",
             "heading_tag": "h4",
-            "content": "<p>Trop d’oreillers vous compriment la nuque ou bloquent vos bras ? Avec <strong>Cocoonia</strong>, les contours papillon stabilisent votre tête tout en libérant la respiration.</p><p><strong>Résultat</strong>: posture naturelle, muscles relâchés, nuits paisibles.</p>",
+            "content": "<p>Contrairement aux oreillers bas de gamme qui s’affaissent en quelques mois, l’oreiller Align conserve son maintien pendant des années.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -392,9 +392,9 @@
           "settings": {
             "image": "shopify://shop_images/4_e3bfb5de-1b96-403f-b946-df846e083fe3.webp",
             "column_size": "3",
-            "title": "Dormeurs sur le Dos",
+            "title": "Une housse respirante qui reste fraîche toute la nuit.",
             "heading_tag": "h4",
-            "content": "<p>Placez simplement votre tête au centre de la Rainure-Ortho ultra-douce. Votre nuque est parfaitement soutenue, vos vertèbres cervicales réalignées.</p><p><strong>Résultat</strong> : réveils sans raideur, colonne détendue, meilleure posture sur le long terme.</p>",
+            "content": "<p>Fini de retourner votre oreiller à 3 h du matin. Réveillez-vous confortablement, sans transpiration.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -413,7 +413,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "S’adapte à Vous.",
+        "title": "Dormez Profondément, Chaque Nuit",
         "content": "",
         "background": "",
         "background_gradient": "",
