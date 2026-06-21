@@ -798,6 +798,82 @@
         "spacing": "small"
       }
     },
+    "multi_column_qWGtya": {
+      "type": "multi-column",
+      "blocks": {
+        "item_hkzdiE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_537902831378629779-cada7a50-62b4-419d-b522-47e3cf1a2cd9.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>Étape 1</strong></p><p>Détachez l’attache centrale.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hGT4Qq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_537902831378629779-fae0395e-caec-4c11-a694-cd2abfc058c0.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>Étape 2</strong></p><p>Ouvrir la fermeture éclair pour retirer la housse.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VKbMUA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_537902831378629779-34513939-6611-40ec-9196-a956aec39d54.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>Étape 3</strong></p><p>Retirez délicatement la housse du coussin sans forcer.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3tbRbg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_537902831378629779-49c08024-e9f4-4575-a901-5653eeb8c7ce.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>Étape 4</strong></p><p>Placez la housse dans la machine à laver pour un lavage en douceur.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_hkzdiE",
+        "item_hGT4Qq",
+        "item_VKbMUA",
+        "item_3tbRbg"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Prendre soin de votre oreiller cervical Cocoonia®",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "avisclientstrust_VXTLTB": {
       "type": "avisclientstrust",
       "blocks": {
@@ -916,82 +992,6 @@
         "card_radius": 16,
         "card_min_height": 350,
         "mobile_card_min_height": 340
-      }
-    },
-    "multi_column_qWGtya": {
-      "type": "multi-column",
-      "blocks": {
-        "item_hkzdiE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/gempages_537902831378629779-cada7a50-62b4-419d-b522-47e3cf1a2cd9.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_hGT4Qq": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/gempages_537902831378629779-fae0395e-caec-4c11-a694-cd2abfc058c0.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_VKbMUA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/gempages_537902831378629779-34513939-6611-40ec-9196-a956aec39d54.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3tbRbg": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/gempages_537902831378629779-49c08024-e9f4-4575-a901-5653eeb8c7ce.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_hkzdiE",
-        "item_hGT4Qq",
-        "item_VKbMUA",
-        "item_3tbRbg"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Prendre soin de votre oreiller cervical Cocoonia®",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "faq": {
