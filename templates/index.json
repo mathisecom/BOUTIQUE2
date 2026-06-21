@@ -256,7 +256,7 @@
         "image_WFtVPd": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/DSC00027_720x_24aec214-df75-492a-9da5-92d89b06a7a4.webp",
+            "image": "shopify://shop_images/Alignement_2.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -264,7 +264,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "Conçu pour différentes positions de sommeil",
-            "content": "<p>DODOIR possède 2 hauteurs de contour différentes de chaque côté, pour s’adapter à votre position de sommeil. Sa forme papillon évite les engourdissements dans les bras et laisse de la place aux épaules.</p><p>Conçu pour offrir un soutien optimal de la tête et réduire les points de pression. Idéal pour dormir sur le dos, sur le côté ou sur le ventre.</p>",
+            "content": "<p><strong>Cocoonia</strong> possède 2 hauteurs de contour différentes de chaque côté, pour s’adapter à votre position de sommeil. Sa forme papillon évite les engourdissements dans les bras et laisse de la place aux épaules.</p><p>Conçu pour offrir un soutien optimal de la tête et réduire les points de pression. Idéal pour dormir sur le dos, sur le côté ou sur le ventre.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#FAFBFC",
@@ -350,6 +350,104 @@
         "text_color": ""
       }
     },
+    "multi_column_KTiznd": {
+      "type": "multi-column",
+      "blocks": {
+        "item_iz4feT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_e3bfb5de-1b96-403f-b946-df846e083fe3.webp",
+            "column_size": "3",
+            "title": "Dormeurs sur le Côté",
+            "heading_tag": "h4",
+            "content": "<p>C’est la position adoptée par une grande partie des dormeurs. Grâce aux contours latéraux du <strong>Cocoonia</strong>, votre tête reste parfaitement alignée et vos bras trouvent enfin leur place sans créer de tension.</p><p><strong>Résultat</strong> : nuque soulagée, épaules détendues, sommeil profond garanti.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_eDChpR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_0ca04e6b-7cfb-429c-8008-e7311eac3a5b.webp",
+            "column_size": "3",
+            "title": "Dormeurs sur le Ventre",
+            "heading_tag": "h4",
+            "content": "<p>Trop d’oreillers vous compriment la nuque ou bloquent vos bras ? Avec <strong>Cocoonia</strong>, les contours papillon stabilisent votre tête tout en libérant la respiration.</p><p><strong>Résultat</strong>: posture naturelle, muscles relâchés, nuits paisibles.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WBGadw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_e3bfb5de-1b96-403f-b946-df846e083fe3.webp",
+            "column_size": "3",
+            "title": "Dormeurs sur le Dos",
+            "heading_tag": "h4",
+            "content": "<p>Placez simplement votre tête au centre de la Rainure-Ortho ultra-douce. Votre nuque est parfaitement soutenue, vos vertèbres cervicales réalignées.</p><p><strong>Résultat</strong> : réveils sans raideur, colonne détendue, meilleure posture sur le long terme.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_iz4feT",
+        "item_eDChpR",
+        "item_WBGadw"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "S’adapte à Vous.",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_cFm6qW": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_bWL3WA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DSC00027_720x_24aec214-df75-492a-9da5-92d89b06a7a4.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Votre posture commence la nuit",
+            "content": "<p>Un oreiller mal adapté peut désaligner votre nuque et provoquer des tensions au réveil. L’oreiller <strong>Cocoonia</strong> aide à aligner naturellement la tête, le cou et la colonne pendant le sommeil.<br/><br/><strong>Moins de douleurs, meilleure posture, réveils plus légers.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#FAFBFC",
+            "background_gradient": "",
+            "text_color": "#062844",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_bWL3WA"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -410,6 +508,8 @@
     "multi_column_rABwjQ",
     "media_with_text_yDzwW9",
     "text_with_icons_Qr6hmQ",
+    "multi_column_KTiznd",
+    "media_with_text_cFm6qW",
     "faq"
   ]
 }
