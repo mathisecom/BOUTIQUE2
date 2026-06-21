@@ -268,7 +268,7 @@
           "type": "stat",
           "settings": {
             "percent": "98%",
-            "text": "des clients recommanderaient DODOIR® à leurs proches"
+            "text": "des clients recommanderaient Cocoonia® à leurs proches"
           }
         },
         "stat_33jp8g": {
@@ -309,7 +309,7 @@
         "mobile_note_size": 12,
         "percent_size": 58,
         "mobile_percent_size": 32,
-        "text_size": 17,
+        "text_size": 14,
         "mobile_text_size": 14,
         "background_color": "#ffffff",
         "heading_color": "#062844",
