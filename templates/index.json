@@ -1024,13 +1024,37 @@
             "title": "L’oreiller est-il efficace contre les ronflements ?",
             "content": "<p>Totalement testé et approuvé. L’oreiller Cocoonia 2.0 favorise un bon alignement de la tête, du cou et des voies respiratoires, ce qui peut réduire considérablement les ronflements liés à une mauvaise posture durant la nuit.</p>"
           }
+        },
+        "item_MMMdrm": {
+          "type": "item",
+          "settings": {
+            "title": "Comment l’oreiller agit-il sur les douleurs cervicales ?",
+            "content": "<p>L’oreiller Cocoonia 2.0 soutient la courbure naturelle des cervicales et aligne la colonne vertébrale durant le sommeil. Il permet ainsi de réduire les tensions musculaires et de prévenir les douleurs liées aux mauvaises postures nocturnes.</p>"
+          }
+        },
+        "item_JxjB7D": {
+          "type": "item",
+          "settings": {
+            "title": "Améliore-t-il vraiment la qualité de mon sommeil ?",
+            "content": "<p>En favorisant un bon alignement postural et une respiration plus fluide, il contribue à un endormissement plus rapide, une diminution des micro-réveils et un sommeil globalement plus réparateur.</p>"
+          }
+        },
+        "item_9xTY7i": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Nous traitons votre commande sous 1 à 2 jours ouvrés. La livraison s’effectue ensuite en 3 à 6 jours, selon votre localisation.</p><p>Chaque colis est expédié avec un numéro de suivi pour garantir une réception rapide et sécurisée.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_BaUMFk"
+        "item_BaUMFk",
+        "item_MMMdrm",
+        "item_JxjB7D",
+        "item_9xTY7i"
       ],
       "settings": {
         "full_width": true,
