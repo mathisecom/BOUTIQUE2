@@ -1017,12 +1017,20 @@
             "title": "L’oreiller est-il compatible avec les masques nasaux et l’apnée du sommeil ?",
             "content": "<p>Oui. L’oreiller Cocoonia 2.0 est parfaitement adapté aux personnes portant un masque nasal ou concernées par l’apnée du sommeil légère à modérée. Sa forme ergonomique favorise un bon alignement des voies respiratoires, ce qui contribue à une respiration fluide tout au long de la nuit.</p>"
           }
+        },
+        "item_BaUMFk": {
+          "type": "item",
+          "settings": {
+            "title": "L’oreiller est-il efficace contre les ronflements ?",
+            "content": "<p>Totalement testé et approuvé. L’oreiller Cocoonia 2.0 favorise un bon alignement de la tête, du cou et des voies respiratoires, ce qui peut réduire considérablement les ronflements liés à une mauvaise posture durant la nuit.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_BaUMFk"
       ],
       "settings": {
         "full_width": true,
