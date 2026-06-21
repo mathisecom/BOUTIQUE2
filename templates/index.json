@@ -250,6 +250,106 @@
         "text_color": ""
       }
     },
+    "media_with_text_yDzwW9": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_WFtVPd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DSC00027_720x_24aec214-df75-492a-9da5-92d89b06a7a4.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Conçu pour différentes positions de sommeil",
+            "content": "<p>DODOIR possède 2 hauteurs de contour différentes de chaque côté, pour s’adapter à votre position de sommeil. Sa forme papillon évite les engourdissements dans les bras et laisse de la place aux épaules.</p><p>Conçu pour offrir un soutien optimal de la tête et réduire les points de pression. Idéal pour dormir sur le dos, sur le côté ou sur le ventre.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#FAFBFC",
+            "background_gradient": "",
+            "text_color": "#062844",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_WFtVPd"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "text_with_icons_Qr6hmQ": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_QqK8zq": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Icons-12.avif",
+            "mobile_icon_width": 56,
+            "icon_width": 56,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "#FAFBFC",
+            "title": "Soulage le Cou et le Dos",
+            "content": "<p>Aide le cou à retrouver sa courbure naturelle et favorise un meilleur alignement.</p>"
+          }
+        },
+        "item_Un4TmA": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/blue-08.avif",
+            "mobile_icon_width": 56,
+            "icon_width": 56,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "#FAFBFC",
+            "title": "Des Nuits plus Paisibles",
+            "content": "<p>Répartit la pression, détend les muscles et facilite l’endormissement.</p>"
+          }
+        },
+        "item_dFB9hf": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/neck_shoulder-27.avif",
+            "mobile_icon_width": 56,
+            "icon_width": 56,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "#FAFBFC",
+            "title": "Soulage les Épaules",
+            "content": "<p>Épouse les épaules sur le côté pour un maintien confortable.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_QqK8zq",
+        "item_Un4TmA",
+        "item_dFB9hf"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -308,6 +408,8 @@
     "herobanner_3qbApp",
     "featured_product_kNHC4U",
     "multi_column_rABwjQ",
+    "media_with_text_yDzwW9",
+    "text_with_icons_Qr6hmQ",
     "faq"
   ]
 }
