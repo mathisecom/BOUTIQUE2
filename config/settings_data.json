@@ -43,14 +43,14 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
-      "15889060105489414810": {
-        "type": "shopify://apps/whatsapp-chat/blocks/whatsapp_button/019e9bab-9144-7832-ba6f-fb1c73546a6c",
-        "disabled": false,
-        "settings": {}
-      },
       "15557474716127144420": {
         "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
         "disabled": true,
+        "settings": {}
+      },
+      "15889060105489414810": {
+        "type": "shopify://apps/whatsapp-chat/blocks/whatsapp_button/019e9bab-9144-7832-ba6f-fb1c73546a6c",
+        "disabled": false,
         "settings": {}
       }
     }
