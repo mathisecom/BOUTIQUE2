@@ -11,12 +11,45 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "content_width": "80ch"
+      }
+    },
+    "images_with_text_scrolling_GV79f9": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_768BAU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DSC00027_720x_24aec214-df75-492a-9da5-92d89b06a7a4.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Qui suis-je !",
+            "content": "<p>Une bonne journée commence par une bonne nuit. Pourtant, combien de réveils avec la nuque raide, les épaules tendues ou un mal de dos tenace ? Souvent, le coupable est le même : un oreiller qui n’est pas adapté.</p><p>Chez Cocoonia, nous nous consacrons à une seule chose : les oreillers ergonomiques. Mousse à mémoire de forme, soutien cervical, hauteur adaptée à ta position de sommeil (sur le dos, sur le côté ou sur le ventre)… chaque modèle est choisi pour accompagner naturellement la courbure de ta nuque et aligner ta colonne vertébrale pendant la nuit.</p><p>Notre approche est simple : le confort et le bien-être ne doivent pas être un luxe. On sélectionne des oreillers qui allient soutien, douceur et qualité, pour que tu retrouves un sommeil plus profond, plus réparateur et sans tensions au réveil.</p><p>Parce que bien dormir, c’est le premier pas vers un quotidien plus serein, bienvenue dans ton cocon.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_768BAU"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "images_with_text_scrolling_GV79f9"
   ]
 }
