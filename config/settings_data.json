@@ -18,6 +18,7 @@
     "block_shadow_vertical_offset": 18,
     "background": "#FFFFFF",
     "text_color": "#062844",
+    "success_color": "#8CB2EE",
     "header_background": "#FFFFFF",
     "header_text_color": "#062844",
     "footer_background": "#062844",
