@@ -35,7 +35,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "sm",
         "image": "shopify://shop_images/Operatrice_au_telephone.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -50,10 +50,10 @@
         "item_768BAU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/DSC00027_720x_24aec214-df75-492a-9da5-92d89b06a7a4.webp",
+            "image": "shopify://shop_images/Alignement_2.webp",
             "icon": "none",
-            "icon_width": 48,
-            "title": "Qui suis-je !",
+            "icon_width": 24,
+            "title": "",
             "content": "<p>Une bonne journée commence par une bonne nuit. Pourtant, combien de réveils avec la nuque raide, les épaules tendues ou un mal de dos tenace ? Souvent, le coupable est le même : un oreiller qui n’est pas adapté.</p><p>Chez Cocoonia, nous nous consacrons à une seule chose : les oreillers ergonomiques. Mousse à mémoire de forme, soutien cervical, hauteur adaptée à ta position de sommeil (sur le dos, sur le côté ou sur le ventre)… chaque modèle est choisi pour accompagner naturellement la courbure de ta nuque et aligner ta colonne vertébrale pendant la nuit.</p><p>Notre approche est simple : le confort et le bien-être ne doivent pas être un luxe. On sélectionne des oreillers qui allient soutien, douceur et qualité, pour que tu retrouves un sommeil plus profond, plus réparateur et sans tensions au réveil.</p><p>Parce que bien dormir, c’est le premier pas vers un quotidien plus serein, bienvenue dans ton cocon.</p>"
           }
         }
@@ -65,7 +65,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "show_counter": true,
+        "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "end",
         "background": "",
